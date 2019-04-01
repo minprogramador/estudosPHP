@@ -28,7 +28,7 @@ $res = DivideStr('Ola Mundo', function ($resCallback) use ($config) {
 });
 
 print_r($res);
-// Resultado:
+
 // Array
 // (
 //     [resCallback] => Array
